@@ -4,4 +4,5 @@
 
 Why you **don't** use tokenoodle-everything?
 
+Newsletter! <https://newsletter.tokenoodle.com>
 Meet us <support@tokenoodle.com>
